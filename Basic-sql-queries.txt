@@ -1,5 +1,5 @@
 /*Task 0: Drop the table INSTRUCTOR from the database in case it already exists, so that we start from a clean state.
-(Hint: Ignore the undefined error if this table does not already exist in your database)*/
+(Hint: Ignore the undefined error ,if this table does not already exist in your database)*/
 drop table INSTRUCTOR
 
 /*Create an instructor table Create the INSTRUCTOR table as defined above. Have the ins_id be the primary key, and ensure the lastname and firstname are not null.
